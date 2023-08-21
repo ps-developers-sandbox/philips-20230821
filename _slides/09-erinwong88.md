@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Introducing Erin Wong!"
 ---
 
-Caption here
+Erin Wong
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
