@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "HelloWorld"
 ---
 
-Caption here
+This is my caption
 
-![octofez](https://octodex.github.com/images/octofez.png)
+![Me](https://avatars.githubusercontent.com/u/70591888?v=4)
 {: .center}
